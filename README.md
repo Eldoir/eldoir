@@ -2,9 +2,9 @@
 
 ## I'm a game dev, in Unity, Unreal and everything else!
 
-- 🎮 I have a [website][website] dedicated to my projects
-- 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking for a job in the video game industry
+- 🔗 I have a [website][website] dedicated to my projects
+- 🌱 I’m currently learning everything 🤣
+- 🎮 I’m looking for a job in the video game industry
 - 🥅 2020 Goals: Try Construct 3 and Godot
 - ⚡ Fun fact: I pour my cereals before milk (like every sane person does).
 
@@ -33,7 +33,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📊 GitHub Stats</summary>
 
   <img align="left" alt="eldoir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eldoir&show_icons=true&hide_border=true" />
 
