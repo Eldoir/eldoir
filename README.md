@@ -11,6 +11,8 @@
 ### Connect with me:
 
 [<img align="left" alt="arthurcousseau.com" width="22px" src="https://arthurcousseau.com/favicon.ico" />][website]
+[<img align="left" alt="eldoir | Mail" width="22px" src="img/mail.png" />][mail]
+[<img align="left" alt="eldoir | CV" width="22px" src="img/cv.png" />][cv]
 [<img align="left" alt="eldoir | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin]
 
 <br />
@@ -39,6 +41,6 @@
 </details>
 
 [website]: https://arthurcousseau.com
-[linkedin]: https://www.linkedin.com/in/arthurcousseau/
 [mail]: mailto:@arthur.cousseau@me.com
 [cv]: https://arthurcousseau.com/cv/CV_EN.pdf
+[linkedin]: https://www.linkedin.com/in/arthurcousseau/
