@@ -1,7 +1,8 @@
 ### Hi there, I'm Arthur - aka Eldoir 👋
 
-## I'm a passionate game developer, in Unity, Unreal and everything else!
+## I'm a game dev, in Unity, Unreal and everything else!
 
+- 🎮 I have a [website][website] dedicated to my projects
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking for a job in the video game industry
 - 🥅 2020 Goals: Try Construct 3 and Godot
@@ -27,13 +28,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="eldoir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="eldoir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eldoir&show_icons=true&hide_border=true" />
 
 </details>
 
