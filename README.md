@@ -3,9 +3,9 @@
 ## I'm a game dev, in Unity, Unreal and interested in everything else!
 
 - ➡️ I have a [website][website] dedicated to my projects
-- 🌱 I’m currently learning everything 🤣
-- 🎮 I’m looking for a job in the video game industry
-- 🥅 2020 Goals: Try Construct 3 and Godot
+- 🌱 I'm constantly learning because that's the meaning of life
+- 🎮 I’m working at Ubisoft and I love it
+- 🥅 2021 Goals: Try Construct 3 and Godot
 - ⚡ Fun fact: I pour my cereals before milk (like every sane person does).
 
 ### Connect with me:
