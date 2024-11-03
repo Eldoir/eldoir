@@ -1,6 +1,6 @@
 ### Hi there, I'm Arthur - aka Eldoir 👋
 
-## I'm a game dev, in Unity, Unreal and interested in everything else!
+## I'm a Tools programmer and game dev!
 
 - ➡️ I have a [website][website] dedicated to my projects
 - 🌱 I'm constantly learning because that's the meaning of life
