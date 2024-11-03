@@ -5,8 +5,7 @@
 - ➡️ I have a [website][website] dedicated to my projects
 - 🌱 I'm constantly learning because that's the meaning of life
 - 🎮 I’m working at Ubisoft and I love it
-- 🥅 2021 Goals: Try Construct 3 and Godot
-- ⚡ Fun fact: I pour my cereals before milk (like every sane person does).
+- 🥅 2024 Goals: Publish my Connections game with VueJS
 
 ### Connect with me:
 
@@ -19,15 +18,13 @@
 
 ### Main Languages and Tools:
 
+<!-- TODO: add Godot, P4, Python, WPF -->
 <img align="left" title="C#" alt="C#" height="26px" src="img/csharp.png" />
 <img align="left" title="C++" alt="C++" height="26px" src="img/cpp.png" />
 <img align="left" title="Git" alt="Git" height="26px" src="img/git.png" />
-<img align="left" title="GitHub" alt="GitHub" height="26px" src="img/github.png" />
 <img align="left" title="Unity" alt="Unity" height="26px" src="img/unity.png" />
 <img align="left" title="Unreal Engine" alt="Unreal Engine" height="26px" src="img/ue.png" />
 <img align="left" title="Visual Studio" alt="Visual Studio" height="26px" src="img/vs.png" />
-<img align="left" title="Rider" alt="Rider" height="26px" src="img/rider.png" />
-<img align="left" title="VR" alt="VR" height="26px" src="img/vr.png" />
 
 <br />
 
