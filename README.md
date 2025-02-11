@@ -5,7 +5,7 @@
 - ➡️ I have a [website][website] dedicated to my projects
 - 🌱 I'm constantly learning because that's the meaning of life
 - 🎮 I’m working at Ubisoft and I love it
-- 🥅 2024 Goals: Publish my Connections game with VueJS
+- 🥅 2025 Goals: Be strong on multithreading and async/await in C#
 
 ### Connect with me:
 
