@@ -41,17 +41,6 @@
 <img align="left" title="PHPStorm" alt="PHPStorm" height="26px" src="img/phpstorm.png" />
 <img align="left" title="XAMPP" alt="XAMPP" height="26px" src="img/xampp.png" />
 
-<br />
-
----
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  <img align="left" alt="eldoir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eldoir&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://arthurcousseau.com
 [mail]: mailto:@arthur.cousseau@me.com
 [cv]: https://arthurcousseau.com/cv/CV_EN.pdf
