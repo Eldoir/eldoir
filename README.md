@@ -4,7 +4,6 @@
 
 - ➡️ I have a [website][website] dedicated to my projects
 - 🌱 I'm constantly learning because that's the meaning of life
-- 🎮 I’m working at Ubisoft and I love it
 - 🥅 2025 Goals: Be strong on multithreading and async/await in C#
 
 ### Connect with me:
@@ -30,6 +29,7 @@
 
 ### Web:
 
+<!-- TODO: add React, Vue, TS -->
 <img align="left" title="HTML5" alt="HTML5" height="26px" src="img/html5.png" />
 <img align="left" title="CSS3" alt="CSS3" height="26px" src="img/css.png" />
 <img align="left" title="Javascript" alt="Javascript" height="26px" src="img/js.png" />
