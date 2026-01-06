@@ -4,7 +4,7 @@
 
 - ➡️ I have a [website][website] dedicated to my projects
 - 🌱 I'm constantly learning because that's the meaning of life
-- 🥅 2025 Goals: Be strong on multithreading and async/await in C#
+- 🥅 2026 Goal: Be strong on Blazor
 
 ### Connect with me:
 
